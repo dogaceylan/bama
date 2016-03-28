@@ -1,7 +1,7 @@
 # BAMA Tech Studies 
-### MCU 
+### MCU  
 ### IMU 
-### LoadCells
+### LoadCells (Foce Sensors)
 ### Communication Protocols
 ### Voltage Regulation
 ### Wireless Communication
